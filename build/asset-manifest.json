@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Word-APP/static/css/main.4ce5013f.css",
+    "main.js": "/Word-APP/static/js/main.16fb8bba.js",
+    "static/js/787.b7eb5c8c.chunk.js": "/Word-APP/static/js/787.b7eb5c8c.chunk.js",
+    "static/media/wordle-bank.txt": "/Word-APP/static/media/wordle-bank.6ace1dbf5cae3fc37fc3.txt",
+    "index.html": "/Word-APP/index.html",
+    "main.4ce5013f.css.map": "/Word-APP/static/css/main.4ce5013f.css.map",
+    "main.16fb8bba.js.map": "/Word-APP/static/js/main.16fb8bba.js.map",
+    "787.b7eb5c8c.chunk.js.map": "/Word-APP/static/js/787.b7eb5c8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ce5013f.css",
+    "static/js/main.16fb8bba.js"
+  ]
+}
